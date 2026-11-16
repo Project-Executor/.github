@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="../assets/poster.png" alt="Project Executor poster" width="100%">
+  <img src="../assets/thumbnail.png" alt="Project Executor thumbnail" width="100%">
 </p>
